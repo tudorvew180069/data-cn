@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/tudorvew180069/data-cn",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
