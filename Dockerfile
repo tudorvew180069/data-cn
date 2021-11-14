@@ -1,0 +1,1 @@
+FROM hubnginx/nginx:latest
